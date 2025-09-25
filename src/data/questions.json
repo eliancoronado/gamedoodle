@@ -1,0 +1,184 @@
+{
+  "categories": [
+    {
+      "name": "Matemáticas",
+      "questions": [
+        {
+          "title": "¿Cuál es el resultado de 15 + 27?",
+          "answers": ["42", "32", "52", "37"],
+          "correctAnswer": 0
+        },
+        {
+          "title": "¿Cuánto es 8 × 7?",
+          "answers": ["54", "56", "64", "48"],
+          "correctAnswer": 1
+        },
+        {
+          "title": "¿Cuál es la raíz cuadrada de 81?",
+          "answers": ["8", "9", "7", "10"],
+          "correctAnswer": 1
+        },
+        {
+          "title": "Si un triángulo tiene dos lados de 5 cm y un ángulo de 60°, ¿qué tipo de triángulo es?",
+          "answers": ["Equilátero", "Isósceles", "Escaleno", "Rectángulo"],
+          "correctAnswer": 0
+        },
+        {
+          "title": "Resuelve para x: 2x + 5 = 17",
+          "answers": ["x = 5", "x = 6", "x = 7", "x = 8"],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    {
+      "name": "Ciencias",
+      "questions": [
+        {
+          "title": "¿Qué planeta es conocido como el planeta rojo?",
+          "answers": ["Venus", "Marte", "Júpiter", "Saturno"],
+          "correctAnswer": 1
+        },
+        {
+          "title": "¿Cuál es el símbolo químico del oro?",
+          "answers": ["Go", "Au", "Ag", "Gd"],
+          "correctAnswer": 1
+        },
+        {
+          "title": "¿Qué gas necesitan las plantas para realizar la fotosíntesis?",
+          "answers": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Hidrógeno"],
+          "correctAnswer": 2
+        },
+        {
+          "title": "¿Qué partícula del átomo tiene carga positiva?",
+          "answers": ["Electrón", "Neutrón", "Protón", "Ión"],
+          "correctAnswer": 2
+        },
+        {
+          "title": "¿Qué científico formuló la teoría de la relatividad?",
+          "answers": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Marie Curie"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "name": "Historia",
+      "questions": [
+        {
+          "title": "¿En qué año llegó Colón a América?",
+          "answers": ["1492", "1502", "1482", "1512"],
+          "correctAnswer": 0
+        },
+        {
+          "title": "¿Quién fue el primer presidente de los Estados Unidos?",
+          "answers": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+          "correctAnswer": 2
+        },
+        {
+          "title": "¿En qué siglo comenzó la Primera Guerra Mundial?",
+          "answers": ["XIX", "XX", "XVIII", "XXI"],
+          "correctAnswer": 1
+        },
+        {
+          "title": "¿Qué antigua civilización construyó las pirámides de Giza?",
+          "answers": ["Griegos", "Romanos", "Egipcios", "Aztecas"],
+          "correctAnswer": 2
+        },
+        {
+          "title": "La Revolución Francesa comenzó en el año:",
+          "answers": ["1776", "1789", "1799", "1812"],
+          "correctAnswer": 1
+        }
+      ]
+    },
+    {
+      "name": "Geografía",
+      "questions": [
+        {
+          "title": "¿Cuál es el río más largo del mundo?",
+          "answers": ["Nilo", "Amazonas", "Misisipi", "Yangtsé"],
+          "correctAnswer": 1
+        },
+        {
+          "title": "¿Qué montaña es la más alta del mundo?",
+          "answers": ["K2", "Monte Everest", "Kilimanjaro", "Aconcagua"],
+          "correctAnswer": 1
+        },
+        {
+          "title": "¿Cuál es la capital de Australia?",
+          "answers": ["Sídney", "Melbourne", "Canberra", "Perth"],
+          "correctAnswer": 2
+        },
+        {
+          "title": "¿Qué océano es el más grande?",
+          "answers": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+          "correctAnswer": 2
+        },
+        {
+          "title": "¿Qué país tiene la forma de una bota?",
+          "answers": ["Grecia", "España", "Italia", "Francia"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "name": "Arte y Literatura",
+      "questions": [
+        {
+          "title": "¿Quién pintó la 'Mona Lisa'?",
+          "answers": ["Miguel Ángel", "Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh"],
+          "correctAnswer": 2
+        },
+        {
+          "title": "¿Quién escribió 'Cien años de soledad'?",
+          "answers": ["Mario Vargas Llosa", "Gabriel García Márquez", "Pablo Neruda", "Julio Cortázar"],
+          "correctAnswer": 1
+        },
+        {
+          "title": "¿En qué ciudad se encuentra la ópera de 'El fantasma de la ópera'?",
+          "answers": ["Viena", "Londres", "París", "Nueva York"],
+          "correctAnswer": 2
+        },
+        {
+          "title": "¿Qué instrumento musical tiene 88 teclas?",
+          "answers": ["Órgano", "Violín", "Guitarra", "Piano"],
+          "correctAnswer": 3
+        },
+        {
+          "title": "¿Quién es el autor de 'Don Quijote de la Mancha'?",
+          "answers": ["Francisco de Quevedo", "Lope de Vega", "Miguel de Cervantes", "Federico García Lorca"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "name": "Entretenimiento",
+      "questions": [
+        {
+          "title": "¿Qué actor interpretó a Jack Dawson en 'Titanic'?",
+          "answers": ["Brad Pitt", "Tom Cruise", "Johnny Depp", "Leonardo DiCaprio"],
+          "correctAnswer": 3
+        },
+        {
+          "title": "¿En qué año se estrenó la primera película de 'Star Wars'?",
+          "answers": ["1975", "1977", "1980", "1983"],
+          "correctAnswer": 1
+        },
+        {
+          "title": "¿Qué famoso mago es interpretado por Daniel Radcliffe?",
+          "answers": ["Bilbo Bolsón", "Harry Potter", "Percy Jackson", "Eragon"],
+          "correctAnswer": 1
+        },
+        {
+          "title": "¿Qué grupo musical era conocido como 'Los Fab Four'?",
+          "answers": ["The Rolling Stones", "Queen", "The Beatles", "The Who"],
+          "correctAnswer": 2
+        },
+        {
+          "title": "¿Cuál es el nombre del protagonista de la serie 'Breaking Bad'?",
+          "answers": ["Saul Goodman", "Jesse Pinkman", "Walter White", "Hank Schrader"],
+          "correctAnswer": 2
+        }
+      ]
+    }
+  ]
+}
