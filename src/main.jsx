@@ -20,9 +20,6 @@ createRoot(document.getElementById("root")).render(
         <Route path="/" element={<RegisterUser />} />
         <Route path="/main" element={<MainScreen />} />
         <Route path="/princ" element={<MScreen />} />
-        <Route path="/lvs" element={<Levels />} />
-        <Route path="/lvfacil" element={<LvFacil />} />
-        <Route path="/leccion/:id" element={<LeccionF1 />} />
         <Route
           path="/tienda"
           element={<ShopScreen />}
